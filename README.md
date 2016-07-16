@@ -5,7 +5,7 @@
 
 
 #### Contents
- - `certGen.sh` - Generate certificates (does not use password for ease of automation)
+ - [`certGen.sh`](https://github.com/ballance/CertGen/blob/master/certGen.sh) - Generate certificates (does not use password for ease of automation)
 
 
 #### Gotchas
